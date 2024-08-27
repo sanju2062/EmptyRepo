@@ -1,5 +1,0 @@
-{
-  "mongoURI": "mongodb+srv://SanjuDeveloper:Mausam123@sanjudeveloper.rm0ud.mongodb.net/Kurosware_Assignment_Form?retryWrites=true&w=majority",
-  "baseUrl": "http://localhost:3000",
-  "port": 3000
-}
